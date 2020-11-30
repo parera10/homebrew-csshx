@@ -1,8 +1,8 @@
 class Csshx < Formula
   desc "Cluster ssh tool for Terminal.app"
   homepage "https://github.com/parera10/csshx"
-  url "https://github.com/parera10/csshx/archive/0.73-2.tar.gz"
-  sha256 "61c67d6c0fba6cbffecaad64bc547f40fa81e7151bf78a01d56b82029c1ac7bf"
+  url "https://github.com/parera10/csshx/archive/0.73-3.tar.gz"
+  sha256 "4974c504bf93062812a63a5b2ea185dee0d74f0505680d1c198aaf4ec0f25a30"
   head "https://github.com/parera10/csshx.git"
 
   bottle :unneeded
