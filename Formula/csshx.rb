@@ -5,8 +5,6 @@ class Csshx < Formula
   sha256 "c12e7fa99be840987809faf873b96ad5bbc24802e1d9df82391242d30744b73a"
   head "https://github.com/parera10/csshx.git"
 
-  bottle :unneeded
-
   def install
     bin.install "csshX"
   end
